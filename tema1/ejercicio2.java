@@ -1,8 +1,9 @@
 package tema1;
 import java.util.Scanner;
 
-public class ejercicio1{
+public class ejercicio2{
     public static void main(String[] args) {
+        //el programa pide tus datos linea por linea y luego los muestra por pantalla.
         System.out.println("dime tu nombre");
         String nombre = new Scanner(System.in).nextLine();
         System.out.println("dime tu primer apellido");
